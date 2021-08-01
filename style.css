@@ -10,7 +10,7 @@ html{
     /* position: sticky; */
     top: 0;
     z-index: 1;
-    background: url(bg4.jpg) no-repeat center center fixed;
+    background: url(images/bg.jpg) no-repeat center center fixed;
     background-size: cover;
     /* background-color:rgb(173 162 162 / 50%);  */
 }
@@ -72,7 +72,8 @@ html{
 /* section firstsec */
 
 .firstsec{
-    background: url(bg4.jpg) no-repeat center center fixed;
+    background: url(images/bg.jpg) no-repeat center center fixed;
+    
     background-size: cover;
     height: 92vh;
 }
